@@ -11,12 +11,19 @@
 
 [Text Prompt SVG Illustrations](https://svg.io/)
 
-
-
 ## Backend
 
 ## General Computation
 [HTML Lang](https://html-lang.org/): Turing complete, stack-based programming language based on the HTML markup language.
 
+### Papers I Wanna Read
+[A Philosophical Introduction to Language Models -- Part I: Continuity With Classic Debates](https://arxiv.org/abs/2401.03910)
+
+[](https://arxiv.org/abs/2310.01425)
+
 ## Graphic Design
 [Archive.Design](https://archives.design/)
+
+## APIs
+
+[National Park Service APIs](https://www.nps.gov/subjects/digital/nps-data-api.htm)
