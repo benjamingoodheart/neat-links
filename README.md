@@ -2,6 +2,11 @@
 
 ## Frontend
 
+### CSS
+[Learn CSS The Pendantic Way](https://github.com/mixu/cssbook)
+
+### Tools
+[remote-storage](https://github.com/FrigadeHQ/remote-storage)
 ### Resources
 [404 Illustrations](https://www.kapwing.com/404-illustrations)
 
@@ -11,10 +16,15 @@
 
 [Text Prompt SVG Illustrations](https://svg.io/)
 
+[SVG Logo Library](https://svgl.vercel.app/)
+
+[Game Icon SVGs](https://game-icons.net/)
+
 ## Backend
 
 ## General Computation
 [HTML Lang](https://html-lang.org/): Turing complete, stack-based programming language based on the HTML markup language.
+[How Video games use Lookup Tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 
 ### Papers I Wanna Read
 [A Philosophical Introduction to Language Models -- Part I: Continuity With Classic Debates](https://arxiv.org/abs/2401.03910)
