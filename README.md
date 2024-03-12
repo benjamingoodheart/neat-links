@@ -2,6 +2,9 @@
 
 ## Frontend
 
+### Javascript
+[Eloquent Javascript 4ed](https://eloquentjavascript.net/)
+
 ### CSS
 [Learn CSS The Pendantic Way](https://github.com/mixu/cssbook)
 
