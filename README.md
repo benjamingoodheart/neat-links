@@ -7,8 +7,17 @@
 
 ### CSS
 [Learn CSS The Pendantic Way](https://github.com/mixu/cssbook)
+### Vue
+
+#### Pinia
+[Private Stores With Pinia](https://masteringpinia.com/blog/how-to-create-private-state-in-stores)
+
+#### Troubleshooting
+[Vue debugging Guide](https://dev.to/zipy/decoding-14-vuejs-errors-a-vuejs-debugging-guide-7nn)
 
 ### Tools
+[Web Tools Directory](https://www.websiteplanet.com/webtools/)
+
 [remote-storage](https://github.com/FrigadeHQ/remote-storage)
 ### Resources
 [404 Illustrations](https://www.kapwing.com/404-illustrations)
