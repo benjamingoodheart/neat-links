@@ -4,10 +4,12 @@
 
 ### Javascript
 * [Eloquent Javascript 4ed](https://eloquentjavascript.net/)
+* [VFX-JS](https://amagi.dev/vfx-js/)
 
 ### CSS
 * [Learn CSS The Pendantic Way](https://github.com/mixu/cssbook)
 * [Printing Music With CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
+* [CSS Gradient Generator](https://cssgradientgenerator.com/)
 
 ### Vue
 
