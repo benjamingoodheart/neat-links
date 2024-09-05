@@ -5,6 +5,7 @@
 ### Javascript
 * [Eloquent Javascript 4ed](https://eloquentjavascript.net/)
 * [VFX-JS](https://amagi.dev/vfx-js/)
+*  [C3 Graphs](https://c3js.org/)
 
 ### CSS
 * [Learn CSS The Pendantic Way](https://github.com/mixu/cssbook)
@@ -56,11 +57,24 @@
 * [64k Intro](https://www.lofibucket.com/articles/64k_intro.html)
 * [How Video games use Lookup Tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 * [Game Icon SVGs](https://game-icons.net/)
+* [Surreal Engine](https://github.com/dpjudas/SurrealEngine)
 
 ## APIs
 
+### Existing
 * [National Park Service APIs](https://www.nps.gov/subjects/digital/nps-data-api.htm)
+* [Free Public APIs](https://www.freepublicapis.com/)
 
+### Guides
+* [ Elemts of APIs](https://johnholdun.com/apis/)
+
+## Data
+### Modeling
+* [Chartdb](https://chartdb.io/)
+
+### Repos
+* [UWS Building Database](https://www.upperwestsidehistory.org/building-database.html)
+* 
 ## Audio
 ### Utils
 * [Black Hole](https://github.com/ExistentialAudio/BlackHole)
