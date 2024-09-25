@@ -41,11 +41,13 @@
 * [HTML Lang](https://html-lang.org/): Turing complete, stack-based programming language based on the HTML markup language.
 
 * [Design Docs At Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+* [Graph Coloring Methods](https://graphcoloringmethods.com/)
 
 ### Papers I Wanna Read
 - [ ] A Philosophical Introduction to Language Models -- Part I: Continuity With Classic Debates](https://arxiv.org/abs/2401.03910)
 
 - [ ] [Borges & AI](https://arxiv.org/abs/2310.01425)
+- [ ] [The Centrality of Stupidity In Mathematics](https://mathforlove.com/2024/09/the-centrality-of-stupidity-in-mathematics/)
 
 ## Graphic Design
 * [Archive.Design](https://archives.design/)
@@ -66,7 +68,7 @@
 * [Free Public APIs](https://www.freepublicapis.com/)
 
 ### Guides
-* [ Elemts of APIs](https://johnholdun.com/apis/)
+* [ Elements of APIs](https://johnholdun.com/apis/)
 
 ## Data
 ### Modeling
@@ -74,11 +76,13 @@
 
 ### Repos
 * [UWS Building Database](https://www.upperwestsidehistory.org/building-database.html)
-* 
+
 ## Audio
 ### Utils
 * [Black Hole](https://github.com/ExistentialAudio/BlackHole)
 
+## Research Tools
+  * [STORM](https://storm.genie.stanford.edu/): Wikipedia-like report on your topic
 ## MISC
 
 * [Steplist.app](https://steplist.app/)
