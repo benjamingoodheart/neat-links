@@ -51,7 +51,7 @@
 
 ## Graphic Design
 * [Archive.Design](https://archives.design/)
-
+* [Image Editing Using Gaussian Splat](https://www.unite.ai/image-editing-with-gaussian-splatting/)
 
 ## Game Dev
 * [Web Game Dev](https://www.webgamedev.com/)
