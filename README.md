@@ -77,6 +77,11 @@
 ### Repos
 * [UWS Building Database](https://www.upperwestsidehistory.org/building-database.html)
 
+## Hackery
+
+* [Getting Root With A Lighter](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
+
+
 ## Audio
 ### Utils
 * [Black Hole](https://github.com/ExistentialAudio/BlackHole)
