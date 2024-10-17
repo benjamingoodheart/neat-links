@@ -7,6 +7,9 @@
 * [VFX-JS](https://amagi.dev/vfx-js/)
 *  [C3 Graphs](https://c3js.org/)
 
+#### Utils
+[Log Tape](https://github.com/dahlia/logtape)
+
 ### CSS
 * [Learn CSS The Pendantic Way](https://github.com/mixu/cssbook)
 * [Printing Music With CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
@@ -31,17 +34,21 @@
 * [Epic Easing](https://epiceasing.com/?curve=0.470%2C0.000%2C0.745%2C0.715&language=css): Tool to fine tune animations
 * [Text Prompt SVG Illustrations](https://svg.io/)
 * [SVG Logo Library](https://svgl.vercel.app/)
+* [Vanilla Vue Components that cna be stylized in Tailwind CSS](https://vanilla-components.com/)
 
 
 
 ## Backend
 * [Online SQL Workbench](https://sql-workbench.com/)
+* [Nginx UI](https://github.com/0xJacky/nginx-ui)
 
 ## General Computation
 * [HTML Lang](https://html-lang.org/): Turing complete, stack-based programming language based on the HTML markup language.
 
 * [Design Docs At Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
 * [Graph Coloring Methods](https://graphcoloringmethods.com/)
+* [Best Free Fonts](https://bestfreefonts.com/)
+
 
 ### Papers I Wanna Read
 - [ ] A Philosophical Introduction to Language Models -- Part I: Continuity With Classic Debates](https://arxiv.org/abs/2401.03910)
@@ -56,10 +63,10 @@
 ## Game Dev
 * [Web Game Dev](https://www.webgamedev.com/)
  * [Labrynthios.js](https://github.com/yantra-core/Labyrinthos.js)
-* [64k Intro](https://www.lofibucket.com/articles/64k_intro.html)
 * [How Video games use Lookup Tables](https://blog.frost.kiwi/WebGL-LUTS-made-simple/)
 * [Game Icon SVGs](https://game-icons.net/)
 * [Surreal Engine](https://github.com/dpjudas/SurrealEngine)
+* [Gamify Everything](https://gamifyeverything.com/)
 
 ## APIs
 
@@ -88,6 +95,3 @@
 
 ## Research Tools
   * [STORM](https://storm.genie.stanford.edu/): Wikipedia-like report on your topic
-## MISC
-
-* [Steplist.app](https://steplist.app/)
