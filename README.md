@@ -39,7 +39,14 @@
 
 
 ## Backend
+### Rust
+* [Weird Expressions In Rust](https://www.wakunguma.com/blog/rust-weird-expr)
+
+
+### SQL
 * [Online SQL Workbench](https://sql-workbench.com/)
+
+### Servers
 * [Nginx UI](https://github.com/0xJacky/nginx-ui)
 
 ## General Computation
@@ -67,6 +74,7 @@
 * [Game Icon SVGs](https://game-icons.net/)
 * [Surreal Engine](https://github.com/dpjudas/SurrealEngine)
 * [Gamify Everything](https://gamifyeverything.com/)
+* [Odyc.js](https://odyc.dev/)
 
 ## APIs
 
