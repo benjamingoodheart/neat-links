@@ -17,6 +17,7 @@
 - [Learn CSS The Pendantic Way](https://github.com/mixu/cssbook)
 - [Printing Music With CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 - [CSS Gradient Generator](https://cssgradientgenerator.com/)
+- [Current Hue of Sky At Your Location](https://sky.dlazaro.ca/)
 
 ### Vue
 
@@ -70,6 +71,7 @@
 - [Graph Coloring Methods](https://graphcoloringmethods.com/)
 - [Best Free Fonts](https://bestfreefonts.com/)
 - [The Book Of Shaders](https://thebookofshaders.com/)
+- [Writing Your Own Simple Tab Completeions](https://mill-build.org/blog/14-bash-zsh-completion.html)
 
 ### Papers I Wanna Read
 
